@@ -177,7 +177,7 @@ Frequently Used Components In This Website End
 **********************************************************/
 #header {
   min-height: 100vh;
-  background: url("../Assets/Images/bg1.jpeg") no-repeat fixed center/cover;
+  background: url("../assets/images/bg1.jpeg") no-repeat fixed center/cover;
   clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
 }
 
@@ -334,7 +334,7 @@ Frequently Used Components In This Website End
   Skills Section Start
 **********************************************************/
 #skills {
-  background-image: url("../Assets/Images/bg2.jpg");
+  background-image: url("../assets/images/bg2.jpg");
 }
 
 #skills .section-head-info h1 {
