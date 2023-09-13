@@ -1,0 +1,31 @@
+/*************************************************
+   Utilities Classes Start
+**************************************************/
+
+.common-padding-x {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.common-padding-y {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+.red-text {
+    color: var(--dark-red);
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.max-width {
+    max-width: 450px;
+}
+
+/*************************************************
+   Utilities Classes End
+**************************************************/
